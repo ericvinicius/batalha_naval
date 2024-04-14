@@ -1,0 +1,1 @@
+print("Jogo em desenvolvimento!")
