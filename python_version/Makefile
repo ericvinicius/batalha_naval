@@ -5,4 +5,4 @@ install_req:
 	.venv/bin/pip install -r requirements.txt
 
 run:
-	echo "TODO"
+	.venv/bin/python main.py
